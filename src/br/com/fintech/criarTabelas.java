@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class CriadorDeTabelas {
 
     public static void main(String[] args) {
-        String url = "jdbc:oracle:thin:@localhost:1521:xe"; // Altere se necessário
+        String url = "jdbc:oracle:thin:@localhost:1521:xe"; 
         String usuario = "SEU_USUARIO";
         String senha = "SUA_SENHA";
 
